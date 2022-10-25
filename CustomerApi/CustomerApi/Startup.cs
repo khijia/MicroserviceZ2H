@@ -28,7 +28,7 @@ using Prometheus;
 
 namespace CustomerApi
 {
-    //testing CI checkin
+    //
     public class Startup
     {
         public Startup(IConfiguration configuration)
@@ -92,9 +92,9 @@ namespace CustomerApi
                     Description = "A simple API to create or update customers",
                     Contact = new OpenApiContact
                     {
-                        Name = "Wolfgang Ofner",
-                        Email = "Wolfgang@programmingwithwolfgang.com",
-                        Url = new Uri("https://www.programmingwithwolfgang.com/")
+                        Name = "khijia",
+                        Email = "khiji@gmail.com",
+                        Url = new Uri("https://github.com/khijia")
                     }
                 });
             });
