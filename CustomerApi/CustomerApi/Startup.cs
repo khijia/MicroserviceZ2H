@@ -94,7 +94,7 @@ namespace CustomerApi
                     {
                         Name = "khijia",
                         Email = "khiji@gmail.com",
-                        Url = new Uri("https://github.com/khijia")
+                        Url = new Uri("https://github.com/khijia/MicroserviceZ2H")
                     }
                 });
             });
